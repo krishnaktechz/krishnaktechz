@@ -1,21 +1,22 @@
 <h1 align="center">Hi, I'm Krishna 👋</h1>
 
 <p align="center">
-  <b>🚀 Full-Stack Developer | .NET | Angular | React | Node.js</b>
-  <br>🎯 Helping businesses build scalable web applications & cloud based solutions  
+  <b>🚀 Full-Stack Developer | .NET | Angular | React | Node.js</b>  
+  <br>🎯 Helping businesses build scalable web applications & cloud-based solutions  
   <br>💼 Open to <b>Freelance & Contract Work</b>  
 </p>
 
 ---
 
 ## 🔥 **About Me**
-👨‍💻 I’m a **Full-Stack Developer** with experience in **.NET, Angular, React, Node.js, and SQL**. I specialize in **building scalable web applications, cloud based and automation tools**.  
+👨‍💻 I’m a **Full-Stack Developer** with expertise in **.NET, Angular, React, Node.js, and SQL**. I specialize in **building scalable web applications, cloud-based solutions, and automation tools**.  
 
 💡 **Key Expertise:**  
 - **Frontend:** Angular, React, TypeScript, HTML, CSS  
 - **Backend:** .NET (C#), Node.js, Express.js  
 - **Databases:** SQL Server, Oracle  
-- **Cloud & DevOps:** Azure
+- **Cloud & DevOps:** Azure  
+
 ---
 
 ## 🛠 **What I Do**
@@ -26,16 +27,19 @@
 ---
 
 ## 📌 **Current & Past Projects**
-🛍 **CAB Booking System** – Custom-built website **(.NET, Angular, SQL)**  
-🤖 **Job Seeker Portal** – Custom-built application **(React, NodeJs)**  **  
-🛠 **Freelance Client Projects** – Custom software & API integrations  
+- 🚖 **CAB Booking System** – Custom-built website **(.NET, Angular, SQL)**  
+- 🎯 **Job Seeker Portal** – Interactive platform **(React, Node.js)**  
+- 🛍 **E-commerce Platform** – Inventory System **(.NET, BigCommerce)**  
+- 🔗 **Freelance Client Projects** – Custom software & API integrations  
 
 ---
 
 ## 💼 **Work With Me – Available for Freelance**
-Looking for a **Full-Stack Developer** to build your next project? Let’s collaborate! I specialize in **custom software development, cloud based applications, and scalable web solutions**.  
+Looking for a **Full-Stack Developer** to build your next project? Let’s collaborate! I specialize in **custom software development, cloud-based applications, and scalable web solutions**.  
 
 📬 **Contact Me**  
-📧 Email: [krishnaktechz@gmail.com]
+📧 Email: [krishnaktechz@gmail.com]  
+
 ---
+
 🚀 **Let’s Build Something Amazing Together!**  
