@@ -1,7 +1,7 @@
 # Welcome to My GitHub 👋
 
 ## 👨‍💻 About Me
-I’m a **.NET & Angular Developer** with experience in **React, Node.js.
+I’m a **.NET & Angular Developer** with experience in **React, Node.js**.
 
 ### 🔭 Current Projects:
 - 🛍 **E-commerce platform** – Built with .NET & Angular
